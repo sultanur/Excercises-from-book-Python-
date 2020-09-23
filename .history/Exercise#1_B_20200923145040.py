@@ -8,8 +8,8 @@ def guessing_game():
     while True: 
         user_guess = int(input("Enter your guess: "), base_random)
         if user_guess == answer: 
-            print(f'Just right! anwer is {user_guess}')
-            break;
+            print(f'Just right! answer is {user_guess}')
+            break
         if user_guess < answer: 
             print(f'The guess number {user_guess} is too low, try again ')
         else: 
