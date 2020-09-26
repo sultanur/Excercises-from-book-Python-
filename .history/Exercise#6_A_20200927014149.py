@@ -6,9 +6,11 @@ def pl_sentence (sentence):
     output = []
     punctuation = ''
     for word in sentence.split():
+        n = False
         if word[-1] in '?!.,':
             punctuation = word[-1] 
             word = word[:-1]
+            n == True  
             if word[0] in 'aeiou':
                 output.append(f'{word}way' + punctuation)
             else:
