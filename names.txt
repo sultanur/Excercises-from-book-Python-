@@ -1,0 +1,57 @@
+1. William Shakespeare
+2. Emily Dickinson
+3. H. P. Lovecraft
+4. Arthur Conan Doyle
+5. Leo Tolstoy
+6. Edgar Allan Poe
+7. Robert Ervin Howard
+8. Rabindranath Tagore
+9. Rudyard Kipling
+10. Seneca
+11. John Donne
+12. Sarah Williams
+13. Oscar Wilde
+14. Catullus
+15. Alfred Tennyson
+16. William Blake
+17. Charles Dickens
+18. John Keats
+19. Theodor Herzl
+20. Percy Bysshe Shelley
+21. Ernest Hemingway
+22. Barack Obama
+23. Anton Chekhov
+24. Henry Wadsworth Longfellow
+25. Arthur Schopenhauer
+26. Jacob De Haas
+27. George Gordon Byron
+28. Jack London
+29. Robert Frost
+30. Abraham Lincoln
+31. O. Henry
+32. Ovid
+33. Robert Louis Stevenson
+34. John Masefield
+35. James Joyce
+36. Clark Ashton Smith
+37. Aristotle
+38. William Wordsworth
+39. Jane Austen
+40. Niccolò Machiavelli
+41. Lewis Carroll
+42. Robert Burns
+43. Edgar Rice Burroughs
+44. Plato
+45. John Milton
+46. Ralph Waldo Emerson
+47. Margaret Thatcher
+47. Sylvie d'Avigdor
+49. Marcus Tullius Cicero
+50. Banjo Paterson
+50. Woodrow Wilson
+52. Walt Whitman
+53. Theodore Roosevelt
+53. Agatha Christie
+55. Ambrose Bierce
+56. Nikola Tesla
+57. Franz Kafka
