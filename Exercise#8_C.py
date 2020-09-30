@@ -2,6 +2,7 @@
 
 def last_word_file():   
     text = open("random.txt", 'r').read()
+    print(text)
     return (sorted(text.split()))[-1]
     
 print(last_word_file())
